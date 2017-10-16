@@ -1,0 +1,5 @@
+boardsize =9
+player1 = X
+player2 = 0
+computer = #
+	
